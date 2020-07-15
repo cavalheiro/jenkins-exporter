@@ -1,0 +1,6 @@
+[jenkins]
+url             = "https://my-jenkins.com"
+user            = ""
+password        = ""
+jobs            = ["job1", "job2"]
+updateInterval  = 300
