@@ -15,7 +15,7 @@ Jenkins Metrics exporter aims to extract metrics like build results, pipeline st
 # HELP jenkins_running_build_pipeline_status 0 if pipeline stage has failed, 1 if succeeded
 ```
 
-## Building and runnning
+## Building and running
 
 Prerequisites:
 
